@@ -1,0 +1,4 @@
+red red red blue green purple orange
+green purple blue red orange 
+black white blue green orange pink
+pink orange blue green red red red red red red
